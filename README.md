@@ -39,17 +39,31 @@ I'm a Computer Science student passionate about software development, problem-so
 ---
 
 
+
 ## 🚀 Featured Projects
 
 Here are some projects from my learning journey.
 
-### [EduGraph — Learning Material Recommendation System](https://github.com/K2Sandy/Sistem-Rekomendasi-Materi-Belajar-Bahasa-C)
+### 🧮 [Java OOP Calculator](https://github.com/allaulltsaqiif-oss/Kalkulator-OOP-java)
 
-A collaborative university project built in C to recommend learning materials based on available study time and difficulty level.
+A desktop calculator built with Java Swing, featuring a modern dark-themed interface and scientific calculations.
+
+- **Technologies:** Java, Java Swing, AWT
+- **Features:** Basic arithmetic, scientific functions, calculation history, and keyboard support.
+- **Project Type:** Collaborative project.
+
+### 🌳 [EduGraph — Learning Material Recommendation System](https://github.com/K2Sandy/Sistem-Rekomendasi-Materi-Belajar-Bahasa-C)
+
+A collaborative project built in C to recommend learning materials based on available study time and difficulty level.
 
 - **My Contribution:** Implemented the Linked List component.
 - **Technologies & Concepts:** C, Data Structures, Linked List, Binary Search Tree, and Sorting Algorithms.
 - **Project Type:** Collaborative university project.
+
+---
+
+I'm continuously learning and improving my programming skills through hands-on projects.
+
 
 Project descriptions will evolve as I build and publish more work.
 
