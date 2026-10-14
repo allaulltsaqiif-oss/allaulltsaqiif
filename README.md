@@ -38,6 +38,15 @@ I'm a Computer Science student passionate about software development, problem-so
 
 ---
 
+🚀 Featured Projects
+
+Here are some projects from my learning journey.
+
+- **([https://github.com/allaulltsaqiif-oss](https://github.com/allaulltsaqiif-oss/Kalkulator-OOP-java.git))** — A programming project focused on strengthening my fundamentals.
+- **([https://github.com/allaulltsaqiif-oss](https://github.com/K2Sandy/Sistem-Rekomendasi-Materi-Belajar-Bahasa-C))** — An opportunity to explore new concepts and build practical solutions.
+
+*Project descriptions will evolve as I build and publish more work.*
+
 
 ## 📊 GitHub Analytics
 
