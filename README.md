@@ -55,9 +55,9 @@ Here are some projects I'm working on as I continue to grow as a developer.
 
 ## 📈 My GitHub Journey
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allaulltsaqiif&show_icons=true&hide_border=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allaulltsaqiif-oss&show_icons=true&hide_border=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allaulltsaqiif&layout=compact&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allaulltsaqiif-oss&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
