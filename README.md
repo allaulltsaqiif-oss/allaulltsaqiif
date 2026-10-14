@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Allaul
+# 👋 Hi, I'm Al
 
 ### Computer Science Student | Aspiring Software Engineer
 
