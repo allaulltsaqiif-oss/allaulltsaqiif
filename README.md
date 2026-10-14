@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Al
+# 👋 Hi, I'm Allaul
 
 ### Computer Science Student | Aspiring Software Engineer
 
@@ -38,11 +38,26 @@ I'm a Computer Science student passionate about software development, problem-so
 
 ---
 
+## 🚀 Featured Projects
+
+Here are some projects I'm working on as I continue to grow as a developer.
+
+- **[Project One](https://github.com/YOUR_USERNAME/PROJECT_ONE)**  
+  A project focused on applying programming concepts to solve a practical problem.
+
+- **[Project Two](https://github.com/YOUR_USERNAME/PROJECT_TWO)**  
+  An application built to explore new technologies and improve my development skills.
+
+- **[Project Three](https://github.com/YOUR_USERNAME/PROJECT_THREE)**  
+  A personal or academic project showcasing my learning journey and technical interests.
+
+---
+
 ## 📈 My GitHub Journey
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allaulltsaqiif&show_icons=true&hide_border=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allaulltsaqiif&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
