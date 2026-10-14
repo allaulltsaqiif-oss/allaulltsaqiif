@@ -38,14 +38,21 @@ I'm a Computer Science student passionate about software development, problem-so
 
 ---
 
-🚀 Featured Projects
+
+## 🚀 Featured Projects
 
 Here are some projects from my learning journey.
 
-- **([https://github.com/allaulltsaqiif-oss](https://github.com/allaulltsaqiif-oss/Kalkulator-OOP-java.git))** — A programming project focused on strengthening my fundamentals.
-- **([https://github.com/allaulltsaqiif-oss](https://github.com/K2Sandy/Sistem-Rekomendasi-Materi-Belajar-Bahasa-C))** — An opportunity to explore new concepts and build practical solutions.
+### [EduGraph — Learning Material Recommendation System](https://github.com/K2Sandy/Sistem-Rekomendasi-Materi-Belajar-Bahasa-C)
 
-*Project descriptions will evolve as I build and publish more work.*
+A collaborative university project built in C to recommend learning materials based on available study time and difficulty level.
+
+- **My Contribution:** Implemented the Linked List component.
+- **Technologies & Concepts:** C, Data Structures, Linked List, Binary Search Tree, and Sorting Algorithms.
+- **Project Type:** Collaborative university project.
+
+Project descriptions will evolve as I build and publish more work.
+
 
 
 ## 📊 GitHub Analytics
